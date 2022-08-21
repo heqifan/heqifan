@@ -6,5 +6,5 @@
 </div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/heqifan/heqifan/assets/github-contribution-grid-snake.svg" /></div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;小何同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;Rookie祝您今天愉快!&center=true&size=27">
 </h1>
