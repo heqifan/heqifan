@@ -9,9 +9,13 @@
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=heqifan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+<span >
+	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
 </div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/heqifan/heqifan/assets/github-contribution-grid-snake.svg" /></div>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rookie祝您今天愉快!&center=true&size=27">
 </h1>
