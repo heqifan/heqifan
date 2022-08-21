@@ -14,6 +14,9 @@
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
+	<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+</div>
 </div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/heqifan/heqifan/assets/github-contribution-grid-snake.svg" /></div>
 <h1 align="center">
