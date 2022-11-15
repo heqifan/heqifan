@@ -29,6 +29,6 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/heqifan/heqifan/assets/github-contribution-grid-snake.svg" /></div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rookie祝您今天愉快!&center=true&size=27">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rookie每天都要开心一点点!&center=true&size=27">
 </h1>
 
